@@ -1,0 +1,5 @@
+---
+applications:
+ - name: One-test
+   random-route: true
+   memory: 128M
